@@ -34,6 +34,7 @@ if(!isset($_SESSION['u_id'])){
     </head>
     <body>
         <!-- START PAGE CONTAINER -->
+	    <p>welcome</p>
         <div class="page-container">
             
             <!-- START PAGE SIDEBAR -->
