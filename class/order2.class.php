@@ -544,6 +544,8 @@ class Order
 						}
 				    }
 
+//thi is comment
+
 				    if ($count == 1){
 				    	echo "<p class='msg_success'>Successful.</p> ";
 				    	$status	= 'Successful';
